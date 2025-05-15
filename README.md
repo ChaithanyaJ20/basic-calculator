@@ -9,6 +9,8 @@ A simple web-based calculator built using HTML, CSS, and JavaScript. This projec
 ---
 
 ## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/0079a0fa-5c67-458c-8f11-2613f236aaf7)
+
 
 
 
